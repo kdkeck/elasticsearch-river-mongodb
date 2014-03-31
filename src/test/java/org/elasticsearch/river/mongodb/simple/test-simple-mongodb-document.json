@@ -1,5 +1,6 @@
 {
 	name: "Richard",
 	chinese: "中国菜很好吃。",
+	dob: { "$date": -23760000000 },
 	score: 100
 }
